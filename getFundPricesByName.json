@@ -34,7 +34,9 @@
             "fundCode": "124",
             "fundPrice1": "",
             "fundPrice2": "",
-            "fundName": "AIA GLOBAL DYNAMIC INCOME-PAYING FUND - PESO"
+            "fundName": "AIA GLOBAL DYNAMIC INCOME-PAYING FUND - PESO",
+            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5010",
