@@ -3,9 +3,9 @@
         {
             "companyCd": "5010",
             "fundCode": "121",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.0235",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0247",
             "fundName": "AIA PESO ADVENTUROUS FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -13,9 +13,9 @@
         {
             "companyCd": "5010",
             "fundCode": "122",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.0186",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0187",
             "fundName": "AIA PESO BALANCED FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -23,57 +23,59 @@
         {
             "companyCd": "5010",
             "fundCode": "123",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.0167",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0151",
             "fundName": "AIA PESO CONSERVATIVE FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
         },
         {
+            "companyCd": "5010",
             "fundCode": "124",
             "fundPrice1": "",
-            "fundPrice2": "",
+            "currency": "PHP",
+            "fundPrice2": "1.0546",
             "fundName": "AIA GLOBAL DYNAMIC INCOME-PAYING FUND - PESO",
-            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus2": "2023-12-19",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5010",
             "fundCode": "120",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.1576",
             "fundName": "AIA-PHILAM LIFE ELITE ADVENTUROUS FUND",
-            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus2": "2023-12-19",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5010",
             "fundCode": "119",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.1029",
             "fundName": "AIA-PHILAM LIFE ELITE BALANCED FUND",
-            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus2": "2023-12-19",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5010",
             "fundCode": "118",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0594",
             "fundName": "AIA-PHILAM LIFE ELITE CONSERVATIVE FUND",
-            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus2": "2023-12-19",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5010",
             "fundCode": "057",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "4.4212",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "4.4331",
             "fundName": "PAMI PHILAM BOND FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -81,9 +83,9 @@
         {
             "companyCd": "5010",
             "fundCode": "085",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "0.8545",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "0.8544",
             "fundName": "PAMI PHILAM EQUITY INDEX FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -91,9 +93,9 @@
         {
             "companyCd": "5010",
             "fundCode": "058",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "15.8326",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "15.8189",
             "fundName": "PAMI PHILAM FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -101,9 +103,9 @@
         {
             "companyCd": "5010",
             "fundCode": "059",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "445.3200",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "443.8400",
             "fundName": "PAMI PHILAM STRATEGIC GROWTH FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -111,9 +113,9 @@
         {
             "companyCd": "5010",
             "fundCode": "012",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.7037",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.7022",
             "fundName": "PESO BALANCED FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -121,9 +123,9 @@
         {
             "companyCd": "5010",
             "fundCode": "003",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "3.0096",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "2.9996",
             "fundName": "PESO EQUITY FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -131,9 +133,9 @@
         {
             "companyCd": "5010",
             "fundCode": "002",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "2.2601",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "2.2661",
             "fundName": "PESO FIXED INCOME FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -141,9 +143,9 @@
         {
             "companyCd": "5010",
             "fundCode": "107",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.0402",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0400",
             "fundName": "PHILAM LIFE EQUITY CAPPED INDEX FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -151,9 +153,9 @@
         {
             "companyCd": "5010",
             "fundCode": "116",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "0.9667",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "0.9692",
             "fundName": "PHILAM LIFE LONG-TERM BOND FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -161,9 +163,9 @@
         {
             "companyCd": "5010",
             "fundCode": "117",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.0349",
             "currency": "PHP",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0351",
             "fundName": "PHILAM LIFE SHORT TERM FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
@@ -171,50 +173,50 @@
         {
             "companyCd": "5011",
             "fundCode": "125",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "",
             "currency": "USD",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0633",
             "fundName": "AIA GLOBAL ELITE ADVENTUROUS FUND",
-            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus2": "2023-12-19",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5011",
             "fundCode": "126",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "",
             "currency": "USD",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0884",
             "fundName": "AIA GLOBAL ELITE BALANCED FUND",
-            "valuationDateMinus2": "2023-12-20",
+            "valuationDateMinus2": "2023-12-19",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5011",
             "fundCode": "127",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "",
             "currency": "USD",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.0996",
             "fundName": "AIA GLOBAL ELITE CONSERVATIVE FUND",
+            "valuationDateMinus2": "2023-12-19",
+            "valuationDateMinus1": "2023-12-19"
+        },
+        {
+            "companyCd": "5011",
+            "fundCode": "004",
+            "fundPrice1": "2.1901",
+            "currency": "USD",
+            "fundPrice2": "2.1915",
+            "fundName": "DOLLAR BOND FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
         },
         {
             "companyCd": "5011",
             "fundCode": "005",
-            "fundPrice1": "3.8892",
+            "fundPrice1": "1.6129",
             "currency": "USD",
-            "fundPrice2": "3.9092",
+            "fundPrice2": "1.6142",
             "fundName": "DOLLAR GLOBAL BOND FUND",
-            "valuationDateMinus2": "2023-12-20",
-            "valuationDateMinus1": "2023-12-19"
-        },
-        {
-            "companyCd": "5011",
-            "fundCode": "004",
-            "fundPrice1": "3.8892",
-            "currency": "USD",
-            "fundPrice2": "3.9092",
-            "fundName": "DOLLAR BOND FUND",
             "valuationDateMinus2": "2023-12-20",
             "valuationDateMinus1": "2023-12-19"
         }
